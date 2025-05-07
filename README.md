@@ -13,10 +13,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on a **Money Management App** & a **Coffee Shop App** ☕
 - 📚 Student of **Information Technology Education** 🎓
-- 🌱 Learning: `Flutter`, `Firebase`, `JavaFX`, and `Networking (VLAN & ACL)`
-- 💡 Fun fact: I debug better with **anime music** playing 🎧
 - 🛠 Hobbies: Gaming (Mobile Legends), badminton, traveling, & photography 📸
 - 📷 Instagram: [@f.r.amrii](https://www.instagram.com/f.r.amrii)
 - 🌐 Portfolio: [My GitHub](https://github.com/Rii02)
@@ -33,15 +30,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rii02&show_icons=true&theme=tokyonight" alt="Rii's GitHub Stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rii02&layout=compact&theme=tokyonight" alt="Top Languages" width="42%" />
-</p>
 
 ---
 
