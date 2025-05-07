@@ -41,5 +41,5 @@
 ---
 
 > ✨ “Code with purpose, debug with coffee.” ☕  
-> © Rii 2025 | Made with ❤️ and Tailwind vibes.
+> © Rii 2025
 
