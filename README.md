@@ -1,13 +1,7 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#00f7ff">Rii</span>!</h1>
+<h1 align="center">Hi there, I'm <span style="color:#00f7ff">Rii</span>!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Gamer+%F0%9F%8E%AE;Anime+Addict+%F0%9F%8E%88;Traveler+%E2%9C%88%EF%B8%8F;Photography+%F0%9F%93%B8;Web+%26+Mobile+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-</p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
